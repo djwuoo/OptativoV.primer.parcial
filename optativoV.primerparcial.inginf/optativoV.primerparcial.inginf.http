@@ -1,0 +1,6 @@
+@optativoV.primerparcial.inginf_HostAddress = http://localhost:5077
+
+GET {{optativoV.primerparcial.inginf_HostAddress}}//
+Accept: application/json
+
+###

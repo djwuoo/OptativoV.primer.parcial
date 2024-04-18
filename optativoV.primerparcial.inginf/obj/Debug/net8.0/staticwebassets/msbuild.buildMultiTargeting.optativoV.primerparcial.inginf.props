@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\optativoV.primerparcial.inginf.props" />
+</Project>
